@@ -1,0 +1,46 @@
+
+push
+translate
+350 350 70
+xrotate
+10
+yrotate
+45
+zrotate
+140
+box
+-100 150 115 200 50 50
+pop
+push
+xrotate
+40
+translate
+30 201 0
+torus
+-33 -15 7 100
+pop
+push
+xrotate
+30
+translate
+90 261 30
+torus
+-33 -15 7 100
+pop
+push
+xrotate
+20
+translate
+150 321 60
+torus
+-33 -15 7 100
+pop
+push
+xrotate
+10
+translate
+200 380 90
+torus
+-33 -15 7 100
+display
+quit
